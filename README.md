@@ -1,4 +1,4 @@
-# Data Science and AI in Python from Scratch
+# AI and Data Science in Python from Scratch
 
 # Style of notebooks
 I write the notebooks to contain:
