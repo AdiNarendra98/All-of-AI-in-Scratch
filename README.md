@@ -240,11 +240,7 @@ In the given image below we find that Machine Learning is a subset of AI.
 
 ![](images/ML.png)
 
-## Supervised Learning
 
-In supervised learning we do predict analysis in **dataset** where we can differentiate the input and output variables and feed them in a algorithm which can then predict the output. 
-
-## Unsupervised Learning
 
 
 
