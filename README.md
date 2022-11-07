@@ -19,10 +19,9 @@
     - ConvNets - 2
     - Confusion Matrix
 - Natural Language Processing with Pytorch
-- Modern Approach of Deep Learning
-    - Geneartive Adversarial Network
-- Unsupervised Learning 
-- Reinforcement Learning 
+- Intro into RNN
+- Transfer Learining with Pytorch
+- EDA and Feature Engg with Python
 
 
 This Program is inspired by (Make sure you read in the order mentioned below in order to get an intuitive knowledge of the subject. Let's Build the Intuition) :
