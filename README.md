@@ -7,20 +7,12 @@
     - Linear Algebra
     - Probability and Statistics
     - Numerial Computation
-- Intro to Deep Learning with Keras
-    - Intro to CNN
-    - Transfer Learning
-    - Intro to LSTM
-    - Autoencoder
-- Intro to CNN with Pytorch
-    - Gradient Descent
-    - Linear Nets
-    - ConvNets - 1 
-    - ConvNets - 2
-    - Confusion Matrix
+- ML Algorithms
+- Intro to Deep Learning 
+- Getting Started with Pytorch
 - Natural Language Processing with Pytorch
 - Intro into RNN
-- Transfer Learining with Pytorch
+- Transfer Learning with Pytorch
 - EDA and Feature Engg with Python
 
 
@@ -32,6 +24,7 @@ This Program is inspired by (Make sure you read in the order mentioned below in 
     - Coursera Deep Learning Course by Andrew Ng
     - Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
     - Artificial Intelligence: A Modern Approach
+    - Pattern Recognition and Machine Learning by Christopher M.Bishop
     
  Additional Reading:
  
