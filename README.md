@@ -16,24 +16,8 @@
 - EDA and Feature Engg with Python
 
 
-This Program is inspired by (Make sure you read in the order mentioned below in order to get an intuitive knowledge of the subject. Let's Build the Intuition) :
 
-    - Machine Learning for Humans by Vishal Saini and Samir Sabri
-    - The Hundred-Page Machine Learning Book by Andriy Burkov
-    - An Introduction to Statistical Learning - Gareth James Daniela Witten Trevor Hastie Robert Tibshirani
-    - Coursera Deep Learning Course by Andrew Ng
-    - Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
-    - Artificial Intelligence: A Modern Approach
-    - Pattern Recognition and Machine Learning by Christopher M.Bishop
-    
- Additional Reading:
- 
-    - Homo Deus by Yuval Noah Harari
-    - Machine Who Think by Pamela Mccorduck
-    
-
-
-# Introduction 
+## Introduction 
 
 We are a species who are highly intelligent capable of turning events. We can make war, we can make coffee and start a revolution. Time in its very essence has revealed invaluable secrets to human beings about its nature which has allowed us to evolve and hence made us greater than any other species around us. The capabilities of human beings are just expanding, from creating a wheel to splitting the atom, we have seen everything that makes up a species like us. And now we are aiming for the stars.
 
@@ -79,6 +63,21 @@ Coming back to our topic. We should keep in mind that if we talk about Artificia
 
 “Within a generation … the problem of creating ‘artificer intelligence’ will substantially be solved” – Marvin Minsky (MIT)
 
+## Inspirations
+This Program is inspired by (Make sure you read in the order mentioned below in order to get an intuitive knowledge of the subject. Let's Build the Intuition) :
 
+    - Machine Learning for Humans by Vishal Saini and Samir Sabri
+    - The Hundred-Page Machine Learning Book by Andriy Burkov
+    - An Introduction to Statistical Learning - Gareth James Daniela Witten Trevor Hastie Robert Tibshirani
+    - Coursera Deep Learning Course by Andrew Ng
+    - Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+    - Artificial Intelligence: A Modern Approach
+    - Pattern Recognition and Machine Learning by Christopher M.Bishop
+    
+ Additional Reading:
+ 
+    - Homo Deus by Yuval Noah Harari
+    - Machine Who Think by Pamela Mccorduck
+    
 
 
